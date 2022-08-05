@@ -5,6 +5,7 @@
 
 
 # Deploy Link
+https://stickynotes-cdaf2.web.app/
 
 
 
