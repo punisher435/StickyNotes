@@ -3,14 +3,9 @@
 2. Run "npm install" command to install dependencies.
 3. Run "npm start" command to start the application.
 
-# Video of the application
-https://drive.google.com/drive/folders/1zLX8rbvtqlDTVkRJwM6Vt3XjoPdAYox2?usp=sharing
 
 # Deploy Link
-https://main--relaxed-marshmallow-a2c8d0.netlify.app/
 
-# High Level Architecture
-![image](https://drive.google.com/uc?export=view&id=1YXL29KknXFs6NOQuGyYN__ctbkguMbje)
 
 
 # Getting Started with Create React App
